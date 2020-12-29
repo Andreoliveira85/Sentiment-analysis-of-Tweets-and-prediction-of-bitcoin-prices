@@ -15,3 +15,6 @@ Final project for concluding the Fullstack formation in Data Science at Jedha in
 ## Code and resources used:
 ** Python version:** 3.7
 ** Packages/Libraries:** pandas, numpy, plottly, seaborn, matplotlib, tweepy, prophet, tensorflow, keras, scikit-learn, textblob, wordcloud.
+
+### Sidenotes: 
+the description of the datasets used is done ine the slides of the final presentation. We could not upload the datasets here due to its size.

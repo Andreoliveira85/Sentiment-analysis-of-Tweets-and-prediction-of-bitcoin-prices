@@ -17,4 +17,4 @@ Final project for concluding the Fullstack formation in Data Science at Jedha in
 ** Packages/Libraries:** pandas, numpy, plottly, seaborn, matplotlib, tweepy, prophet, tensorflow, keras, scikit-learn, textblob, wordcloud.
 
 ### Sidenotes: 
-the description of the datasets used is done ine the slides of the final presentation. We could not upload the datasets here due to its size.
+the description of the datasets used is done ine the slides of the final presentation. We could not upload the datasets here due to its size. We invite the visitor to check the graphics and visualizations created on the notebooks displayed in the final presentation.
